@@ -1,22 +1,29 @@
 <template>
-  <div>
-    <MatchCard
-      home-team="Зенит"
-      away-team="Спартак"
-      :home-score="2"
-      :away-score="1"
-      status="FINISHED"
-    />
-    <MatchCard
-      home-team="Реал"
-      away-team="Барселона"
-      :home-score="0"
-      :away-score="0"
-      status="LIVE"
-    />
+  <div id="app">
+    <!-- Здесь будут отображаться страницы в зависимости от URL -->
+    <RouterView />
   </div>
 </template>
 
 <script setup>
-import MatchCard from './components/MatchCard.vue'
+// Ничего дополнительного не требуется — RouterView уже глобально доступен
 </script>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+</style>

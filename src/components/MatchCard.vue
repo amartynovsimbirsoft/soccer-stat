@@ -6,6 +6,9 @@
       <span class="away">{{ awayTeam }}</span>
     </div>
     <div class="status">{{ getStatusText(status) }}</div>
+    <button @click="$emit('match-click', { homeTeam, awayTeam })">
+      Подробнее
+    </button>
   </div>
 </template>
 
