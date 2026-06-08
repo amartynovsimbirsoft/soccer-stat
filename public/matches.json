@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1859558,
+    "date": "2026-06-08",
+    "time": "14:30:00",
+    "home_team": "Fauve Azur Elite",
+    "away_team": "Aigle Royal de Moungo",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "id": 1859361,
+    "date": "2026-06-08",
+    "time": "15:00:00",
+    "home_team": "Bamboutos",
+    "away_team": "Union Douala",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "id": 1859536,
+    "date": "2026-06-08",
+    "time": "15:00:00",
+    "home_team": "Stade Renard",
+    "away_team": "Unisport",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "id": 1859556,
+    "date": "2026-06-08",
+    "time": "15:00:00",
+    "home_team": "Aigle Royal",
+    "away_team": "FC Gazelle",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859557,
+    "date": "2026-06-08",
+    "time": "17:30:00",
+    "home_team": "Dynamo de Douala",
+    "away_team": "Coton Sport",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "id": 1859560,
+    "date": "2026-06-09",
+    "time": "14:00:00",
+    "home_team": "APEJES Academy",
+    "away_team": "AS Fortuna",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859561,
+    "date": "2026-06-09",
+    "time": "16:00:00",
+    "home_team": "Canon Yaoundé",
+    "away_team": "Tonnerre Yaoundé",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "id": 1859562,
+    "date": "2026-06-10",
+    "time": "13:00:00",
+    "home_team": "Colombe Sportive",
+    "away_team": "Eding Sport",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "id": 1859563,
+    "date": "2026-06-10",
+    "time": "15:30:00",
+    "home_team": "PWD Bamenda",
+    "away_team": "YOSA Bamenda",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "id": 1859564,
+    "date": "2026-06-11",
+    "time": "14:30:00",
+    "home_team": "UMS de Loum",
+    "away_team": "Fovu Baham",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "id": 1859565,
+    "date": "2026-06-12",
+    "time": "16:00:00",
+    "home_team": "Avion Academy",
+    "away_team": "Renaissance Ngoumou",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "id": 1859566,
+    "date": "2026-06-13",
+    "time": "14:00:00",
+    "home_team": "Fauve Azur Elite",
+    "away_team": "Bamboutos",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859567,
+    "date": "2026-06-13",
+    "time": "17:00:00",
+    "home_team": "Union Douala",
+    "away_team": "Stade Renard",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "id": 1859568,
+    "date": "2026-06-14",
+    "time": "15:00:00",
+    "home_team": "Coton Sport",
+    "away_team": "Aigle Royal",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "id": 1859569,
+    "date": "2026-06-14",
+    "time": "18:00:00",
+    "home_team": "FC Gazelle",
+    "away_team": "Dynamo de Douala",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859570,
+    "date": "2026-06-15",
+    "time": "14:30:00",
+    "home_team": "AS Fortuna",
+    "away_team": "APEJES Academy",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "id": 1859571,
+    "date": "2026-06-15",
+    "time": "16:30:00",
+    "home_team": "Tonnerre Yaoundé",
+    "away_team": "Canon Yaoundé",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "id": 1859572,
+    "date": "2026-06-16",
+    "time": "13:00:00",
+    "home_team": "Eding Sport",
+    "away_team": "Colombe Sportive",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "id": 1859573,
+    "date": "2026-06-16",
+    "time": "15:30:00",
+    "home_team": "YOSA Bamenda",
+    "away_team": "PWD Bamenda",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "id": 1859574,
+    "date": "2026-06-17",
+    "time": "14:00:00",
+    "home_team": "Fovu Baham",
+    "away_team": "UMS de Loum",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "id": 1859575,
+    "date": "2026-06-18",
+    "time": "16:00:00",
+    "home_team": "Renaissance Ngoumou",
+    "away_team": "Avion Academy",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "id": 1859576,
+    "date": "2026-06-19",
+    "time": "15:00:00",
+    "home_team": "Unisport",
+    "away_team": "Fauve Azur Elite",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "id": 1859577,
+    "date": "2026-06-20",
+    "time": "14:30:00",
+    "home_team": "Bamboutos",
+    "away_team": "Union Douala",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859578,
+    "date": "2026-06-20",
+    "time": "17:30:00",
+    "home_team": "Aigle Royal de Moungo",
+    "away_team": "Coton Sport",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "id": 1859579,
+    "date": "2026-06-21",
+    "time": "15:00:00",
+    "home_team": "Stade Renard",
+    "away_team": "FC Gazelle",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859580,
+    "date": "2026-06-21",
+    "time": "18:00:00",
+    "home_team": "Dynamo de Douala",
+    "away_team": "Aigle Royal",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "id": 1859581,
+    "date": "2026-06-22",
+    "time": "14:00:00",
+    "home_team": "APEJES Academy",
+    "away_team": "Tonnerre Yaoundé",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859582,
+    "date": "2026-06-22",
+    "time": "16:30:00",
+    "home_team": "Canon Yaoundé",
+    "away_team": "AS Fortuna",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "id": 1859583,
+    "date": "2026-06-23",
+    "time": "13:00:00",
+    "home_team": "Colombe Sportive",
+    "away_team": "YOSA Bamenda",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859584,
+    "date": "2026-06-23",
+    "time": "15:30:00",
+    "home_team": "PWD Bamenda",
+    "away_team": "Eding Sport",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "id": 1859585,
+    "date": "2026-06-24",
+    "time": "14:00:00",
+    "home_team": "UMS de Loum",
+    "away_team": "Renaissance Ngoumou",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "id": 1859586,
+    "date": "2026-06-25",
+    "time": "16:00:00",
+    "home_team": "Avion Academy",
+    "away_team": "Fovu Baham",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "id": 1859587,
+    "date": "2026-06-26",
+    "time": "15:00:00",
+    "home_team": "Les Astres",
+    "away_team": "Young Sport Academy",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "id": 1859588,
+    "date": "2026-06-27",
+    "time": "14:30:00",
+    "home_team": "Dragon Club",
+    "away_team": "New Star",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859589,
+    "date": "2026-06-28",
+    "time": "17:00:00",
+    "home_team": "Fauve Azur Elite",
+    "away_team": "Unisport",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "id": 1859590,
+    "date": "2026-06-29",
+    "time": "15:30:00",
+    "home_team": "Union Douala",
+    "away_team": "Aigle Royal de Moungo",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859591,
+    "date": "2026-06-30",
+    "time": "18:00:00",
+    "home_team": "Coton Sport",
+    "away_team": "Bamboutos",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "id": 1859592,
+    "date": "2026-07-01",
+    "time": "14:00:00",
+    "home_team": "FC Gazelle",
+    "away_team": "Dynamo de Douala",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "id": 1859593,
+    "date": "2026-07-02",
+    "time": "16:30:00",
+    "home_team": "Aigle Royal",
+    "away_team": "Stade Renard",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "id": 1859594,
+    "date": "2026-07-03",
+    "time": "13:00:00",
+    "home_team": "AS Fortuna",
+    "away_team": "Canon Yaoundé",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "id": 1859595,
+    "date": "2026-07-04",
+    "time": "15:00:00",
+    "home_team": "Tonnerre Yaoundé",
+    "away_team": "APEJES Academy",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859596,
+    "date": "2026-07-05",
+    "time": "17:30:00",
+    "home_team": "YOSA Bamenda",
+    "away_team": "Colombe Sportive",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859597,
+    "date": "2026-07-06",
+    "time": "14:30:00",
+    "home_team": "Eding Sport",
+    "away_team": "PWD Bamenda",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "id": 1859598,
+    "date": "2026-07-07",
+    "time": "16:00:00",
+    "home_team": "Renaissance Ngoumou",
+    "away_team": "UMS de Loum",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "id": 1859599,
+    "date": "2026-07-08",
+    "time": "18:00:00",
+    "home_team": "Fovu Baham",
+    "away_team": "Avion Academy",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "id": 1859600,
+    "date": "2026-07-09",
+    "time": "15:30:00",
+    "home_team": "Young Sport Academy",
+    "away_team": "Les Astres",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "id": 1859601,
+    "date": "2026-07-10",
+    "time": "14:00:00",
+    "home_team": "New Star",
+    "away_team": "Dragon Club",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "id": 1859602,
+    "date": "2026-07-11",
+    "time": "17:00:00",
+    "home_team": "Fauve Azur Elite",
+    "away_team": "Union Douala",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "id": 1859603,
+    "date": "2026-07-12",
+    "time": "15:00:00",
+    "home_team": "Aigle Royal de Moungo",
+    "away_team": "FC Gazelle",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "id": 1859604,
+    "date": "2026-07-13",
+    "time": "16:30:00",
+    "home_team": "Bamboutos",
+    "away_team": "Aigle Royal",
+    "home_score": 2,
+    "away_score": 2
+  }
+]
