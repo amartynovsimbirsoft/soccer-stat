@@ -55,34 +55,10 @@ const goToLeague = (id) => {
 const fetchParticipants = async () => {
   loading.value = true
   try {
-    const response = await axios.get('https://livescore-api.com/api-client/competitions/participants.json',
-    {
-      params: {
-        key: process.env.VUE_APP_API_KEY,
-        secret: process.env.VUE_APP_API_SECRET,
-        competition_id: 362,
-        season: 2026
-      }
-    }
-  )
-    if (response.data.success) {
-      partipants.value = response.data.data
-    }
+    const response = await axios.get('/leagues.json')
+    partipants.value = response.data
   } catch(err) {
-    if (err.response) {
-    // Сервер ответил с ошибкой (4xx или 5xx)
-    const status = err.response.status;
-    if (status === 401) error.value = 'Ошибка авторизации. Проверьте ключ API.';
-    else if (status === 404) error.value = 'Соревнование не найдено.';
-    else if (status === 429) error.value = 'Слишком много запросов. Попробуйте завтра.';
-    else error.value = `Ошибка сервера (${status}). Попробуйте позже.`;
-  } else if (err.request) {
-    // Запрос был отправлен, но ответа нет (нет интернета, CORS)
-    error.value = 'Нет ответа от сервера. Проверьте соединение.';
-  } else {
-    // Прочие ошибки, например, при настройке запроса
-    error.value = 'Неизвестная ошибка. Обновите страницу.';
-  }
+    console.log(err)
   } finally {
     loading.value = false
   }
