@@ -168,7 +168,7 @@ const filteredMatches = computed(() => {
   // Фильтр по дате "до" — включаем граничную дату
   if (dateTo.value) {
     const toDate = new Date(dateTo.value)
-    toDate.setHours(23, 59, 59, 999)  // 👈 конец дня
+    toDate.setHours(23, 59, 59, 999)  // конец дня
     result = result.filter(m => {
       const matchDate = new Date(m.date)
       matchDate.setHours(0, 0, 0, 0)
